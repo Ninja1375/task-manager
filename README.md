@@ -64,4 +64,4 @@ Este projeto inclui suporte para logs e métricas. Configure ferramentas como Pr
 
 ## Contribuição
 
-Sinta-se à vontade para abrir issues e enviar PRs!
+Sinta-se à vontade para abrir `issues` e enviar `Pull requests`.
