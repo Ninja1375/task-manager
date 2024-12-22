@@ -1,6 +1,8 @@
-# Task Manager API
+# Projeto em Ballerina: API para Gerenciamento de Tarefas
 
-Uma API RESTful simples para gerenciar tarefas, construída com a linguagem de programação Ballerina.
+Este projeto demonstra como criar uma API RESTful para gerenciamento de tarefas utilizando Ballerina. 
+
+Ele inclui operações CRUD (Create, Read, Update, Delete) e está pronto para ser usado como base para um projeto mais robusto.
 
 ## Funcionalidades
 - Criar tarefas.
