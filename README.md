@@ -10,6 +10,13 @@ Ele inclui operações CRUD (Create, Read, Update, Delete) e está pronto para s
 - Atualizar o status de uma tarefa.
 - Deletar uma tarefa.
 
+## Estrutura do Projeto
+```Plaintext
+task-manager/
+├── Ballerina.toml
+├── main.bal
+└── README.md
+
 ## Como Rodar
 
 1. Instale o [Ballerina](https://ballerina.io/).
