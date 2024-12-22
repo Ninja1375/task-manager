@@ -29,11 +29,12 @@ task-manager/
    ```bash
    cd task-manager
    ```
-Execute o serviço:
-bash
-Copiar código
-bal run
+4. Execute o serviço:
+   ```bash
+   bal run
+   ```
 Acesse a API em http://localhost:8080.
+
 Endpoints
 Listar todas as tarefas
 GET /tasks
@@ -42,20 +43,22 @@ Criar uma nova tarefa
 POST /tasks
 Corpo:
 
-json
-Copiar código
+```json
 {
   "title": "Exemplo de Tarefa",
   "description": "Descrição da tarefa"
 }
+```
 Atualizar o status de uma tarefa
 PUT /tasks/{id}?completed=true
 
 Deletar uma tarefa
 DELETE /tasks/{id}
 
-Observabilidade
+## Observabilidade
+
 Este projeto inclui suporte para logs e métricas. Configure ferramentas como Prometheus e Grafana para monitoramento.
 
-Contribuição
+## Contribuição
+
 Sinta-se à vontade para abrir issues e enviar PRs!
