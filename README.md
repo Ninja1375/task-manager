@@ -33,15 +33,18 @@ task-manager/
    ```bash
    bal run
    ```
-Acesse a API em http://localhost:8080.
+5. Acesse a API em:
 
-Endpoints
-Listar todas as tarefas
-GET /tasks
+http://localhost:8080.
 
-Criar uma nova tarefa
-POST /tasks
-Corpo:
+## Endpoints
+
+**Listar todas as tarefas**
+**GET** `/tasks`
+
+**Criar uma nova tarefa**
+**POST** `/tasks`
+**Corpo:**
 
 ```json
 {
@@ -49,11 +52,11 @@ Corpo:
   "description": "Descrição da tarefa"
 }
 ```
-Atualizar o status de uma tarefa
-PUT /tasks/{id}?completed=true
+**Atualizar o status de uma tarefa**
+**PUT** `/tasks/{id}?completed=true`
 
-Deletar uma tarefa
-DELETE /tasks/{id}
+**Deletar uma tarefa**
+**DELETE** `/tasks/{id}`
 
 ## Observabilidade
 
