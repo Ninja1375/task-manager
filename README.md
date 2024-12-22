@@ -10,6 +10,12 @@ Ele inclui operações CRUD (Create, Read, Update, Delete) e está pronto para s
 - Atualizar o status de uma tarefa.
 - Deletar uma tarefa.
 
+## Linguagem Utilizada
+
+<a href="https://programartudo.blogspot.com/2024/12/ballerina-linguagem-moderna-para.html" target="_blank">
+    <img loading="lazy" src="https://ballerina.io/images/ballerina-logo.svg" width="70" height="70" alt="Ballerina Logo"/>
+</a>
+
 ## Estrutura do Projeto
 ```Plaintext
 task-manager/
