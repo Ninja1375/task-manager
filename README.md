@@ -13,7 +13,7 @@ Ele inclui operações CRUD (Create, Read, Update, Delete) e está pronto para s
 ## Linguagem Utilizada
 
 <a href="https://programartudo.blogspot.com/2024/12/ballerina-linguagem-moderna-para.html" target="_blank">
-    <img loading="lazy" src="https://ballerina.io/images/ballerina-logo.svg" width="70" height="70" alt="Ballerina Logo"/>
+    <img loading="lazy" src="https://ballerina.io/images/ballerina-logo.svg" width="100" height="100" alt="Ballerina Logo"/>
 </a>
 
 ## Estrutura do Projeto
