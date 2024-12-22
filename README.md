@@ -14,4 +14,8 @@ Uma API RESTful simples para gerenciar tarefas, construída com a linguagem de p
 2. Clone este repositório:
    ```bash
    git clone https://github.com/username/task-manager.git
+   ```
+3. Acesse o diretório do projeto:
+   ```bash
    cd task-manager
+   ```
